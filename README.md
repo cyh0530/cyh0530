@@ -1,0 +1,5 @@
+- 👋  Hi, I’m Justin Huang. I come from Taipei, Taiwan.
+- 🏫  I study Computer Science at University of Washington from 2018 to 2022.
+- 👀  I’m interested in web programming and data mining.
+- 🌱  I’m currently looking for software engineering internships in Summer 2022.
+- 📫  For more information, feel free to visit my [LinkedIn](https://www.linkedin.com/in/cyh0530/) or reach me at <cyh0530@uw.edu>.
