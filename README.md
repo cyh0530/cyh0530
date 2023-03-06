@@ -1,4 +1,5 @@
 - 👋  Hi, I’m Justin Huang. I come from Taipei, Taiwan.
-- 🏫  I study Computer Science at University of Washington from 2018 to 2022.
-- 👀  I’m interested in web programming and data mining.
-- 📫  For more information, feel free to visit [here](https://cyh0530.github.io/) or reach me at <cyh0530@uw.edu>.
+- 💼  I'm a software engineer at SeekOut.
+- 🏫  I studied Computer Science at University of Washington from 2018 to 2022.
+- 👀  I’m interested in web programming.
+- 📫  For more information, feel free to visit [here](https://cyh0530.info/) or reach me at <chiayanghuang0@gmail.com>.
